@@ -69,7 +69,18 @@ Steps to clone:
 ![classdiagramae drawio](https://user-images.githubusercontent.com/113126750/206049533-2d10becf-f9a3-4259-95ec-9005157961f9.png)
 
 
+### Screenshots
+![Landing Page](https://user-images.githubusercontent.com/113126750/225107200-1fa4b0ae-3a8b-40fa-b64d-843360cdf83a.jpeg)
 
 
+![Sign Up](https://user-images.githubusercontent.com/113126750/225107044-05c974e1-c6de-4a3b-92a0-bc749450b13e.png)
 
-	
+![Sign In](https://user-images.githubusercontent.com/113126750/225107065-9b51591f-ea42-4346-9682-53c1ebca455b.png)
+
+![User Dashboard](https://user-images.githubusercontent.com/113126750/225107116-d7a3f9cf-3ad3-440d-80a5-b7ede7f3e203.png)
+![Journal - View](https://user-images.githubusercontent.com/113126750/225107255-b205ff51-c70a-4139-8d01-075f523731ea.png)
+
+![Relax](https://user-images.githubusercontent.com/113126750/225107158-cb79cd4e-980b-4518-97f1-f80c0dd0084b.png)
+![Notes](https://user-images.githubusercontent.com/113126750/225107182-55e6ff39-c715-4a44-a0a0-722db5a0e430.png)
+![Activities](https://user-images.githubusercontent.com/113126750/225107219-465bbecc-21f2-4d71-b602-65fab35f787e.png)
+![Journal - Add](https://user-images.githubusercontent.com/113126750/225107235-1578029a-cb74-4d69-9255-d9cc19f54fce.png)
